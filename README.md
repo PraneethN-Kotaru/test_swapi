@@ -16,6 +16,11 @@ remove the star_wars.db
 install pre-requisits
 run `python main.py` from the path
 
+Output:
+<img width="1328" alt="image" src="https://github.com/user-attachments/assets/79bac0ac-886b-4c28-8f39-d03adca462f2">
+To view the results, please upload the star_wars.db to https://inloop.github.io/sqlite-viewer/, you can make the queries to view all tables and results:
+`SELECT * FROM result1`
+
 ## Next steps:
 
 1. Containerisation
